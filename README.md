@@ -34,16 +34,6 @@ Ensure you have Python 3 installed. If not, you can download and install it from
     - `pip install -e ".[dev]"`
 
 
-### Instructor
-
-Thalia Barrera 
-                            
-
-
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/thalia-barrera).
-
 [lil-course-url]: https://www.linkedin.com/learning/end-to-end-data-engineering-project?dApp=59033956&leis=LAA
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQFQihfehsNCiQ/learning-public-crop_288_512/0/1698869440746?e=2147483647&v=beta&t=3G9Icq-7JuCKrWsa5lQMv3mLiqyy5NkXwj8urZEXCWw
 
