@@ -4,16 +4,19 @@ models:
   - name: stg_customers
     columns:
       - name: customer_id
+        description: The unique identifier for a customer
         tests:
           - unique
           - not_null
   - name: stg_orders
     columns:
       - name: order_id
+        description: The unique identifier for an order
         tests:
           - unique
           - not_null
       - name: order_status
+        description: The status of the order
         tests:
           - accepted_values:
               values:
